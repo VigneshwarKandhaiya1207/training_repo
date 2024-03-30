@@ -3,3 +3,4 @@ I am learning git.
 He is trying to learn machine learning.
 To add, he is also trying to add MLOPS to his resume.
 He is trying his best to build his career in his resume.
+adding a new line
